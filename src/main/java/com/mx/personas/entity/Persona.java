@@ -18,7 +18,7 @@ public class Persona {
 	@Id
 	private String curp;
 	private String nombre;
-	private String apelido;
+	private String apellido;
 	private int edad;
 	private String ciudad;
 	private String genero;
